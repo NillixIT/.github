@@ -1,7 +1,9 @@
-[![EN](https://img.shields.io/badge/lang-EN-blue)](README.md)
-[![NL](https://img.shields.io/badge/lang-NL-orange)](README.nl.md)
-[![DE](https://img.shields.io/badge/lang-DE-yellow)](README.de.md)
-[![FR](https://img.shields.io/badge/lang-FR-lightgrey)](README.fr.md)
+## 🌍 Language Selector
+
+[![🇬🇧 English](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![🇳🇱 Nederlands](https://img.shields.io/badge/Taal-Nederlands-orange)](README.nl.md)
+[![🇩🇪 Deutsch](https://img.shields.io/badge/Sprache-Deutsch-yellow)](README.de.md)
+[![🇫🇷 Français](https://img.shields.io/badge/Language-Français-lightgrey)](README.fr.md)
 
 # NillixIT (Nillix)
 
