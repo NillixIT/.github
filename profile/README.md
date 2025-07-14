@@ -1,49 +1,51 @@
-# 🚗 TheorieBoost BV  
+# NillixIT (Nillix)
 
-**Welkom bij TheorieBoost BV!** 🎉  
-Wij helpen toekomstige bestuurders om hun autotheorie snel en effectief te leren met innovatieve digitale oplossingen. Onze focus ligt op het ontwikkelen van moderne leermiddelen en oefenomgevingen waarmee je optimaal voorbereid je theorie-examen kunt afleggen.  
+Welcome to the official GitHub of **NillixIT**, also known as **Nillix**. Your trusted partner in delivering robust IT solutions, software development, and digital transformation services.
 
-## 📚 Wat doen wij?  
-Bij TheorieBoost BV combineren we technologie en educatie om de autotheorie toegankelijker en begrijpelijker te maken. Onze webapplicatie biedt gebruikers de mogelijkheid om:  
-
-✅ **Oefenexamens te maken** die realistisch zijn en aansluiten op het CBR-theorie-examen.  
-✅ **Interactieve lessen te volgen** met duidelijke uitleg en praktijkvoorbeelden.  
-✅ **Voortgang bij te houden** en gepersonaliseerde feedback te krijgen.  
-✅ **Adaptieve leerstrategieën** te gebruiken die zich aanpassen aan de sterktes en zwaktes van de gebruiker.  
-
-## 💻 Onze technologie  
-Om onze producten en diensten zo efficiënt en schaalbaar mogelijk te maken, gebruiken we moderne webtechnologieën:  
-
-🖥 **Frontend:** [Next.js](https://nextjs.org/) voor een snelle en interactieve gebruikerservaring.  
-🗄 **Backend:** Een solide API-architectuur met **Node.js**.
-💾 **Database:** SQL-gebaseerde opslagoplossingen zoals **MySQL** voor efficiënte gegevensverwerking.  
-☁️ **Hosting & Deployment:** Wij werken met **Vercel**, **Docker** voor betrouwbare en schaalbare infrastructuur.  
-
-## 🌍 Waarom TheorieBoost?  
-🔹 **Slim en efficiënt leren:** Onze methoden zijn gebaseerd op bewezen leerstrategieën en AI-gestuurde personalisatie.  
-🔹 **Altijd up-to-date:** Wij zorgen ervoor dat onze vragen en lesmaterialen altijd overeenkomen met de nieuwste CBR-richtlijnen.  
-🔹 **Gebruiksvriendelijk en modern:** Een intuïtieve interface en soepele gebruikerservaring op desktop en mobiel.  
-🔹 **Ondersteuning en community:** Wij luisteren naar onze gebruikers en verbeteren constant onze applicaties op basis van feedback.  
-
-🚀 **Samen maken we leren leuker, slimmer en effectiever!**  
+🌐 [Visit Our Website](https://nillix.com)
 
 ---
 
-## 👥 Ons team  
-Bij TheorieBoost werken gepassioneerde mensen aan het verbeteren van digitale leerervaringen.  
+## 🚀 About Us
 
-| Naam | Functie | Contact |
-|------|---------|--------|
-| Issam | Owner, Backend Developer | [github](https://github.com/IssamAm) |
-| Sem | Owner, Frontend Developer | [github](https://github.com/sjempotje) |
-| Jij? | Designer | |
+At **Nillix**, we specialize in creating scalable, secure, and smart solutions tailored to meet modern business needs. From software engineering and cloud services to UI/UX design and DevOps, our team is dedicated to pushing boundaries and delivering value.
 
 ---
 
-### 📩 Contact  
-💼 **Website:** [soon](https://www.soon.nl)  
-📧 **E-mail:** info@soon.nl  
-🐦 **X:** [@soon](https://twitter.com/soon)  
-🔗 **LinkedIn:** [TheorieBoost BV](https://www.linkedin.com/company/soon)  
+## 💼 What We Do
 
-Wil je bijdragen aan onze missie? Neem contact op of bekijk onze openstaande vacatures! 🚀
+- **Custom Software Development**
+- **Web & Mobile App Development**
+- **Cloud Architecture & DevOps**
+- **UI/UX Design**
+- **IT Consulting**
+- **SaaS & API Integration**
+
+---
+
+## 📂 Repositories
+
+Explore our public repositories to see some of the tools, libraries, or templates we share with the developer community. For client-specific or enterprise-level solutions, please contact us directly.
+
+---
+
+## 📫 Contact Us
+
+- 🌍 Website: [https://nillix.com](https://nillix.com)
+- 📧 Email: `issam [at] nillix.com` or `sem [at] nillix.com`
+
+---
+
+## 🤝 Work With Us
+
+Interested in collaborating or learning more about our services? We’d love to hear from you. Reach out via [our contact page](https://nillix.com/contact) or open an issue/discussion here on GitHub if it’s code-related.
+
+---
+
+## 🛡️ License
+
+All content in this repository is © NillixIT. Please refer to individual repos for their specific licenses.
+
+---
+
+_Thank you for visiting our GitHub. We look forward to building something amazing together!_
