@@ -1,3 +1,10 @@
+## 🌍 Language Selector
+
+[![🇬🇧 English](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![🇳🇱 Nederlands](https://img.shields.io/badge/Taal-Nederlands-orange)](README.nl.md)
+[![🇩🇪 Deutsch](https://img.shields.io/badge/Sprache-Deutsch-yellow)](README.de.md)
+[![🇫🇷 Français](https://img.shields.io/badge/Language-Français-lightgrey)](README.fr.md)
+
 # NillixIT (Nillix)
 
 Welcome to the official GitHub of **NillixIT**, also known as **Nillix**. Your trusted partner in delivering robust IT solutions, software development, and digital transformation services.
